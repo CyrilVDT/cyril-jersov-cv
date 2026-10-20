@@ -1,0 +1,26 @@
+export const reviewItems = {
+  en: [
+    'Exact month VDT started and ended',
+    'CZU expected graduation year',
+    'IJS clients or plant types that can be named',
+    'Bühler commissioning countries worth listing',
+    'Photovoltaic plant year and whether capacity (kWp) can be published',
+    'ČOV Podolí project year',
+    'Traffic-camera API name, if public',
+    'Whether Insights Hub metadata was migrated with the four motors',
+    'Photos, architecture drawings, public repos, certifications',
+    'Alliance assignments — keep off the site until confirmed',
+  ],
+  cs: [
+    'Přesný měsíc začátku a konce VDT',
+    'Předpokládaný rok ukončení ČZU',
+    'Klienti nebo typy provozů IJS, které lze jmenovat',
+    'Země commissioningu Bühler, které má smysl uvést',
+    'Rok FVE projektu a jestli lze zveřejnit výkon (kWp)',
+    'Rok projektu ČOV Podolí',
+    'Název API dopravních kamer, pokud je veřejný',
+    'Jestli se s migrací čtyř motorů přenášela i metadata Insights Hub',
+    'Fotky, schémata, veřejné repozitáře, certifikace',
+    'Zakázky Alliance — na web nedávat, dokud to nebude potvrzené',
+  ],
+}
